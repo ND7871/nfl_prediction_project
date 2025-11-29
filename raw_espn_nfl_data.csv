@@ -1,0 +1,49 @@
+game_id,season,week,date,home_team,away_team,home_score,away_score,venue
+401772694,2023,,2025-11-27T21:30Z,Dallas Cowboys,Kansas City Chiefs,31,28,AT&T Stadium
+401772891,2023,,2025-11-27T18:00Z,Detroit Lions,Green Bay Packers,24,31,Ford Field
+401772930,2023,,2025-11-28T01:20Z,Baltimore Ravens,Cincinnati Bengals,0,0,M&T Bank Stadium
+401772621,2023,,2025-11-28T20:00Z,Philadelphia Eagles,Chicago Bears,0,0,Lincoln Financial Field
+401772785,2023,,2025-11-30T18:00Z,Cleveland Browns,San Francisco 49ers,0,0,Huntington Bank Field
+401772786,2023,,2025-11-30T18:00Z,Tennessee Titans,Jacksonville Jaguars,0,0,Nissan Stadium
+401772787,2023,,2025-11-30T18:00Z,Indianapolis Colts,Houston Texans,0,0,Lucas Oil Stadium
+401772892,2023,,2025-11-30T18:00Z,Miami Dolphins,New Orleans Saints,0,0,Hard Rock Stadium
+401772893,2023,,2025-11-30T18:00Z,New York Jets,Atlanta Falcons,0,0,MetLife Stadium
+401772895,2023,,2025-11-30T18:00Z,Tampa Bay Buccaneers,Arizona Cardinals,0,0,Raymond James Stadium
+401772894,2023,,2025-11-30T18:00Z,Carolina Panthers,Los Angeles Rams,0,0,Bank of America Stadium
+401772896,2023,,2025-11-30T21:05Z,Seattle Seahawks,Minnesota Vikings,0,0,Lumen Field
+401772789,2023,,2025-11-30T21:25Z,Pittsburgh Steelers,Buffalo Bills,0,0,Acrisure Stadium
+401772788,2023,,2025-11-30T21:25Z,Los Angeles Chargers,Las Vegas Raiders,0,0,SoFi Stadium
+401772931,2023,,2025-12-01T01:20Z,Washington Commanders,Denver Broncos,0,0,Northwest Stadium
+401772821,2023,,2025-12-02T01:15Z,New England Patriots,New York Giants,0,0,Gillette Stadium
+401772930,2024,,2025-11-28T01:20Z,Baltimore Ravens,Cincinnati Bengals,7,9,M&T Bank Stadium
+401772891,2024,,2025-11-27T18:00Z,Detroit Lions,Green Bay Packers,24,31,Ford Field
+401772694,2024,,2025-11-27T21:30Z,Dallas Cowboys,Kansas City Chiefs,31,28,AT&T Stadium
+401772621,2024,,2025-11-28T20:00Z,Philadelphia Eagles,Chicago Bears,0,0,Lincoln Financial Field
+401772785,2024,,2025-11-30T18:00Z,Cleveland Browns,San Francisco 49ers,0,0,Huntington Bank Field
+401772786,2024,,2025-11-30T18:00Z,Tennessee Titans,Jacksonville Jaguars,0,0,Nissan Stadium
+401772787,2024,,2025-11-30T18:00Z,Indianapolis Colts,Houston Texans,0,0,Lucas Oil Stadium
+401772892,2024,,2025-11-30T18:00Z,Miami Dolphins,New Orleans Saints,0,0,Hard Rock Stadium
+401772893,2024,,2025-11-30T18:00Z,New York Jets,Atlanta Falcons,0,0,MetLife Stadium
+401772895,2024,,2025-11-30T18:00Z,Tampa Bay Buccaneers,Arizona Cardinals,0,0,Raymond James Stadium
+401772894,2024,,2025-11-30T18:00Z,Carolina Panthers,Los Angeles Rams,0,0,Bank of America Stadium
+401772896,2024,,2025-11-30T21:05Z,Seattle Seahawks,Minnesota Vikings,0,0,Lumen Field
+401772789,2024,,2025-11-30T21:25Z,Pittsburgh Steelers,Buffalo Bills,0,0,Acrisure Stadium
+401772788,2024,,2025-11-30T21:25Z,Los Angeles Chargers,Las Vegas Raiders,0,0,SoFi Stadium
+401772931,2024,,2025-12-01T01:20Z,Washington Commanders,Denver Broncos,0,0,Northwest Stadium
+401772821,2024,,2025-12-02T01:15Z,New England Patriots,New York Giants,0,0,Gillette Stadium
+401772930,2025,,2025-11-28T01:20Z,Baltimore Ravens,Cincinnati Bengals,7,3,M&T Bank Stadium
+401772891,2025,,2025-11-27T18:00Z,Detroit Lions,Green Bay Packers,24,31,Ford Field
+401772694,2025,,2025-11-27T21:30Z,Dallas Cowboys,Kansas City Chiefs,31,28,AT&T Stadium
+401772621,2025,,2025-11-28T20:00Z,Philadelphia Eagles,Chicago Bears,0,0,Lincoln Financial Field
+401772785,2025,,2025-11-30T18:00Z,Cleveland Browns,San Francisco 49ers,0,0,Huntington Bank Field
+401772786,2025,,2025-11-30T18:00Z,Tennessee Titans,Jacksonville Jaguars,0,0,Nissan Stadium
+401772787,2025,,2025-11-30T18:00Z,Indianapolis Colts,Houston Texans,0,0,Lucas Oil Stadium
+401772892,2025,,2025-11-30T18:00Z,Miami Dolphins,New Orleans Saints,0,0,Hard Rock Stadium
+401772893,2025,,2025-11-30T18:00Z,New York Jets,Atlanta Falcons,0,0,MetLife Stadium
+401772895,2025,,2025-11-30T18:00Z,Tampa Bay Buccaneers,Arizona Cardinals,0,0,Raymond James Stadium
+401772894,2025,,2025-11-30T18:00Z,Carolina Panthers,Los Angeles Rams,0,0,Bank of America Stadium
+401772896,2025,,2025-11-30T21:05Z,Seattle Seahawks,Minnesota Vikings,0,0,Lumen Field
+401772789,2025,,2025-11-30T21:25Z,Pittsburgh Steelers,Buffalo Bills,0,0,Acrisure Stadium
+401772788,2025,,2025-11-30T21:25Z,Los Angeles Chargers,Las Vegas Raiders,0,0,SoFi Stadium
+401772931,2025,,2025-12-01T01:20Z,Washington Commanders,Denver Broncos,0,0,Northwest Stadium
+401772821,2025,,2025-12-02T01:15Z,New England Patriots,New York Giants,0,0,Gillette Stadium
